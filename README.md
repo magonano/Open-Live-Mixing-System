@@ -1,6 +1,12 @@
 # Open-Live-Mixing-System
 OLMS: The Open Live Mixing System. Transforms any Mini-PC into a dedicated, professional digital rack mixer. Built on a Real-Time Linux Core, Ardour Headless, and PipeWire, offering reliable, low-latency audio control via a responsive Web UI/OSC bridge. Open Core (GPLv3).
 
+# Open Live Mixing System (OLMS)
+
+[![License](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+[![Status](https://img.shields.io/badge/Status-PoC%20Recruiting-red.svg)](./issues/1)
+[![Sample Rate](https://img.shields.io/badge/Sample%20Rate-48%20kHz-orange.svg)]()
+[![RTL Target](https://img.shields.io/badge/RTL%20Target-%3C%2010ms-green.svg)]()
 
 ## THE OPEN LIVE MIXING SYSTEM (OLMS) MANIFESTO (Revised)
 
